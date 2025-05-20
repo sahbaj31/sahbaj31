@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahbaj31&label=Profile%20views&color=0e75b6&style=flat" alt="sahbaj31" /> </p>
 
-- 🌱 I’m currently learning **ReactJS , NodeJS and ExpressJS**
+- 🌱 I’m currently learning **ReactJS and NodeJS **
 
 - 💬 Ask me about **DSA,DBMS, Computer Networks**
 
